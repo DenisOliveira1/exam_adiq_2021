@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\SilvioSantos\bin\Debug\netcoreapp3.1\SilvioSantos.exe
+C:\Users\Denis\source\repos\SilvioSantos\bin\Debug\netcoreapp3.1\SilvioSantos.deps.json
+C:\Users\Denis\source\repos\SilvioSantos\bin\Debug\netcoreapp3.1\SilvioSantos.runtimeconfig.json
+C:\Users\Denis\source\repos\SilvioSantos\bin\Debug\netcoreapp3.1\SilvioSantos.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\SilvioSantos\bin\Debug\netcoreapp3.1\SilvioSantos.dll
+C:\Users\Denis\source\repos\SilvioSantos\bin\Debug\netcoreapp3.1\SilvioSantos.pdb
+C:\Users\Denis\source\repos\SilvioSantos\obj\Debug\netcoreapp3.1\SilvioSantos.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\SilvioSantos\obj\Debug\netcoreapp3.1\SilvioSantos.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\SilvioSantos\obj\Debug\netcoreapp3.1\SilvioSantos.AssemblyInfo.cs
+C:\Users\Denis\source\repos\SilvioSantos\obj\Debug\netcoreapp3.1\SilvioSantos.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\SilvioSantos\obj\Debug\netcoreapp3.1\SilvioSantos.dll
+C:\Users\Denis\source\repos\SilvioSantos\obj\Debug\netcoreapp3.1\SilvioSantos.pdb
+C:\Users\Denis\source\repos\SilvioSantos\obj\Debug\netcoreapp3.1\SilvioSantos.genruntimeconfig.cache
