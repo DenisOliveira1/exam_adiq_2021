@@ -17,8 +17,8 @@ namespace SilvioSantos
                 new Pares(7, "c")
             };
 
-            var verificafor =  new VerificaLista();
-            verificafor.verificarLista(lista, limiteInferior, limiteSuperior);
+            var verificador =  new VerificaLista();
+            verificador.verificarLista(lista, limiteInferior, limiteSuperior);
 
         }
 
